@@ -1,0 +1,14 @@
+{ 
+    "categories_photos": [{"id":"Mariage", "image":[ "/images/marriage1.jpg","/images/marriage2.jpg"]},
+    {"id":"Grossesse", "image":["/images/grossesse1.jpg","/images/grossesse2.jpg","/images/bebe1.jpg"]},
+    {"id":"Famille", "image":["/images/family1.jpg","/images/family2.jpg","/images/family3.jpg"]}]
+    ,"categories": [{"id":"1","title":"Mariage", "image": "/images/marriage1.jpg"},{"id":"2","title":"Mariage", "image":"/images/marriage2.jpg"},{"id":"3","title":"Mariage", "image":"/images/marriage3.jpg"},{"id":"4","title":"Mariage", "image":"/images/marriage4.jpg"},
+    {"id":"5","title":"Grossesse", "image":"/images/grossesse1.jpg"},{"id":"6","title":"Grossesse", "image":"/images/grossesse2.jpg"},{"id":"7","title":"Bébé", "image":"/images/bebe1.jpg"},{"title":"Bébé", "image":"/images/bebe2.jpg"},{"id":"8","title":"Bébé", "image":"/images/bebe3.jpg"},
+    {"id":"9","title":"Famille", "image":"/images/family1.jpg"},{"id":"10","title":"Famille", "image":"/images/family2.jpg"},{"title":"Famille", "image":"/images/family3.jpg"},{"title":"Famille", "image":"/images/family4.jpg"}],
+     "tarifsPrestation": [{"id": "Juste moi", "prix": "130 euros", "description": "Séance pour une personne, en extérieur ou en studio"},
+{"id": "Pour deux", "prix": "195 euros", "description": "Pour deux personnes, en extérieur ou en studio"},
+{"id": "Famille", "prix": "220 euros", "description": "Pour la famille ou les amis jusqu’à 4 personnes, en extérieur ou en studio 30 euros en supplément par personne au-delà de 4 (hormis enfant jusqu’à 2 ans)"},
+{"id": "Il était une fois", "prix": "160 euros", "description": "Photo de grossesse (À votre domicile, en extérieur ou en studio)"},
+{"id": "Mon bébé", "prix": "100 euros", "description": "Photo d’enfant jusqu’à 3 ans (photo à domicile)"},
+{"id": "J’immortalise l’événement", "prix": "sur mesure", "description": "Prestation de mariage ou baptême sur devis"}]
+}
