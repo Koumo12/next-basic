@@ -17,9 +17,7 @@ function Titre({data}) {
           </Head>
           <Layout>
               <h1>{data.title}</h1>
-              <div>
-                <img src />
-              </div>
+             
               <p>{data.name}</p>
           </Layout>        
         </>

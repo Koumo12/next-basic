@@ -1,7 +1,5 @@
-import axios from 'axios';
-import Head from 'next/head';
+
 import React from 'react';
-import Layout from '../components/layout';
 
 function Departement  ()  {
     const style = {

@@ -1,7 +1,5 @@
 import React, { useEffect, useState } from 'react'
 import Layout from './components/layout';
-import Link from 'next/link';
-import { useRouter } from 'next/router';
 import axios from 'axios';
 import useSWR from "swr";
 import Head from 'next/head';

@@ -1,8 +1,6 @@
 import React from 'react'
 import Layout from './components/layout';
 import Link from 'next/link';
-import { useRouter } from 'next/router';
-import axios from 'axios';
 import Image from 'next/image';
 import Head from 'next/head';
 

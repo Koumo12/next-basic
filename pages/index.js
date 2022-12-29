@@ -2,8 +2,7 @@ import  React, { useEffect } from "react";
 import Layout from "../components/layout";
 import axios from "axios";
 import Link from "next/link";
-import Head from "next/head";
-import dynamic from "next/dynamic";
+import Head from "next/head";;
 
 
 
